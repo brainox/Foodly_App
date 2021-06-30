@@ -1,6 +1,5 @@
 # Foodly
 
-An ATM simulator app for iOS that allows users to be able to perform basic transactions using their mobile device
 A Food delivery app for iOS that allows users to be able to order meals from varieties of restaurants and get it delivered to the users selected destinations.
 
 # Project Management
